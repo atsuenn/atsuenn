@@ -1,7 +1,7 @@
 ![GoodKid](./goodkid.gif)
 
 # 💫 About Me:
-🔭 Currenty I'm working on my project FileFlare, and would appreciate any help where possible once it's public.<br>📖 I'm looking to learn C++ or maybe Java in the near future as I would like to expand my skill set.<br>💬 Feel free to ask me any questions
+📖 I'm looking to learn C# or maybe Java in the near future as I would like to expand my skill set.<br>💬 Feel free to ask me any questions
 
 
 ## 🌐 Socials:
